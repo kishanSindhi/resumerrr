@@ -22,10 +22,15 @@ mongo
 # Login & Signup
 
 <img src="https://user-images.githubusercontent.com/83533427/166697809-2f3548e0-b277-4b2d-9607-f4f4278d38cd.png" style="width:70%; height:70%">
-[Screenshot from 2022-05-04 19-08-49](https://user-images.githubusercontent.com/83533427/166697809-2f3548e0-b277-4b2d-9607-f4f4278d38cd.png)
 
 This is a login screen of the resumer app. If you are user the you login and create your resume
 
 <img src="https://user-images.githubusercontent.com/83533427/166696780-025434d2-2fc6-4d5b-ad99-0bb8c8d8da8c.png" style="width:70%; height:70%">
 
 Fill the details and you are good to go.... :)
+
+# Home page
+
+<img src="https://user-images.githubusercontent.com/83533427/166699121-d1622e3e-e985-4cf6-bc58-20d67c82ac60.png" style="width:70%; height:70%">
+
+Home page where you can insert your all details and it will stored in MONGODB and later on it will be displayed in PDF
