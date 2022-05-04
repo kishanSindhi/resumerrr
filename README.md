@@ -25,6 +25,6 @@ mongo
 
 This is a login screen of the resumer app. If you are user the you login and create your resume
 
-<img src="https://user-images.githubusercontent.com/83533427/166696780-025434d2-2fc6-4d5b-ad99-0bb8c8d8da8c.png" style="width:30%; height:30%">
+<img src="https://user-images.githubusercontent.com/83533427/166696780-025434d2-2fc6-4d5b-ad99-0bb8c8d8da8c.png" style="width:50%; height:50%">
 
 Fill the details and you are good to go.... :)
