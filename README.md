@@ -21,7 +21,8 @@ mongo
 
 # Login & Signup
 
-<img scr="https://user-images.githubusercontent.com/83533427/166697320-ffc39859-f574-4a6b-aa06-da6865ef7830.png" style="width:70%; height:70%">
+<img src="https://user-images.githubusercontent.com/83533427/166697809-2f3548e0-b277-4b2d-9607-f4f4278d38cd.png" style="width:70%; height:70%">
+[Screenshot from 2022-05-04 19-08-49](https://user-images.githubusercontent.com/83533427/166697809-2f3548e0-b277-4b2d-9607-f4f4278d38cd.png)
 
 This is a login screen of the resumer app. If you are user the you login and create your resume
 
